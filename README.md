@@ -1,4 +1,4 @@
-# [Sponsorname] Audit
+# Axelar Network Audit
 
 Audit findings are submitted to this repo.
 

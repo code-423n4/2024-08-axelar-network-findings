@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "WenResults",
+  "risk": "2",
+  "title": "`UpdateTrustedAddress` cannot be called on the ITS Hub as no one has any Elevated roles",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/7"
+}

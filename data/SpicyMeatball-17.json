@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "SpicyMeatball",
+  "risk": "2",
+  "title": "Attacker can register wrong gateway token for a given tokenIdentifier",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/17"
+}

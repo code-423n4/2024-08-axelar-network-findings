@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "`InterchainTokenFactory` contract does not support registering canonical fee-on-transfer tokens",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/31"
+}

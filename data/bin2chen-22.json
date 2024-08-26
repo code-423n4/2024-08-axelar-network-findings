@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "_getExecuteParams() if chains is compromised , can submit sourceAddress=hub to skip ITS balance tracking restrictions",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/22"
+}

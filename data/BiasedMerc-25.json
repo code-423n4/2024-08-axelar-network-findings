@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "BiasedMerc",
+  "risk": "2",
+  "title": "TokenManager::approveService() doesn't set tokenHandler approval",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/25"
+}

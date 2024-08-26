@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "gjaldon",
+  "risk": "3",
+  "title": "Anyone can front-run an Interchain Token Deployment with Interchain Transfers to mess up ITS Hub's balance tracking",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/34"
+}

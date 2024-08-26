@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "gjaldon",
+  "risk": "3",
+  "title": "Operators can remove ITS Edge as Operator and block interchain transfers by setting flow limit to 1",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/39"
+}

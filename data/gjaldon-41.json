@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "gjaldon",
+  "risk": "2",
+  "title": "Registering canonical interchain tokens can be blocked when pre-existing token uses the same address in different chains",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/41"
+}

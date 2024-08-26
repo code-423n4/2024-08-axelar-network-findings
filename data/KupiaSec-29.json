@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "Calling `InterchainTokenService.deployInterchainToken` function only should be allowed to `InterchainTokenFactory` contract",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/29"
+}

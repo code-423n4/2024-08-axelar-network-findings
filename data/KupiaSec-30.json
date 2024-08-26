@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "Users can not set minter address of the interchain token freely",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/30"
+}

@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "interchainTransfer() user specifies CONTRACT_CALL, but it can be executed as EXPRESS_CALL and vice versa.",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/21"
+}

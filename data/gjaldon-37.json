@@ -1,0 +1,8 @@
+{
+  "contest": 424,
+  "handle": "gjaldon",
+  "risk": "3",
+  "title": "cUSDCv3 as a canonical token can be drained from ITS Edge because of how it handles uint256 on transfers",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/37"
+}

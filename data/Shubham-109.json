@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "Shubham",
+  "risk": "2",
+  "title": "Token is minted to the `sender/msg.sender` instead of `minter`",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/109",
+  "originalIssueId": 214,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/214"
+}

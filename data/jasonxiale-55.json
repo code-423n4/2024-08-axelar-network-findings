@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "jasonxiale",
+  "risk": "2",
+  "title": "token might be stuck in contracts if the peer token is paused on dest chain",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/55",
+  "originalIssueId": 236,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/236"
+}

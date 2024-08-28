@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "Agontuk",
+  "risk": "2",
+  "title": "Inconsistent Minter Assignment and Flow Limiter Settings in `InterchainTokenFactory::deployInterchainToken()`",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/91",
+  "originalIssueId": 49,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/49"
+}

@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "Inspecktor",
+  "risk": "3",
+  "title": "Not all ERC20 tokens have symbol defined as a string data type",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/123",
+  "originalIssueId": 89,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/89"
+}

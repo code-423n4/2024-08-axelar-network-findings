@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "joaovwfreire",
+  "risk": "2",
+  "title": "msg.value is decoupled from the gasValue parameter",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/114",
+  "originalIssueId": 183,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/183"
+}

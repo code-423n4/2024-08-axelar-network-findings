@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "The rust ITS Hub core entry points are not pausable",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/61",
+  "originalIssueId": 193,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/193"
+}

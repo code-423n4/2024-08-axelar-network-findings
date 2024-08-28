@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "morbsel",
+  "risk": "3",
+  "title": "Trusted addresses can't be added or updated due to elevated permissions never being set",
+  "issueId": 125,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/125",
+  "originalIssueId": 70,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/70"
+}

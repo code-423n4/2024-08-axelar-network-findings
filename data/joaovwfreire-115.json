@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "joaovwfreire",
+  "risk": "3",
+  "title": "TokenHandler:transferTokenFrom doesn't ensure msg.value is equal to the desired amount in case of tokenIds of native tokens",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/115",
+  "originalIssueId": 182,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/182"
+}

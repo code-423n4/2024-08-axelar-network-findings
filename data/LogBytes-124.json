@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "LogBytes",
+  "risk": "3",
+  "title": "Vulnerability in callContract Function Due to Misuse of tx.origin as refundAddress in payNativeGasForContractCall",
+  "issueId": 124,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/124",
+  "originalIssueId": 73,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/73"
+}

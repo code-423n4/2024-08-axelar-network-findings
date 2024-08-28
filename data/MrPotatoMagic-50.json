@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "MrPotatoMagic",
+  "risk": "2",
+  "title": "Incorrect minter assignment in InterchainToken.sol prevents minting/burning of tokens",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/50",
+  "originalIssueId": 282,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/282"
+}

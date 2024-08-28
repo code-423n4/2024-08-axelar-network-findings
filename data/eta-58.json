@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "eta",
+  "risk": "2",
+  "title": "Redundant `Prefixer` Trait in `TokenId` Struct Causes Unnecessary Issue in Key Generation in the `primitives.rs` Contract of the `interchain-token-service` Package",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/58",
+  "originalIssueId": 205,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/205"
+}

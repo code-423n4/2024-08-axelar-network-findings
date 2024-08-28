@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "Token balance will not be updated on the source chain if the interchain token for this chain was not deployed via ITS Hub",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/72",
+  "originalIssueId": 146,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/146"
+}

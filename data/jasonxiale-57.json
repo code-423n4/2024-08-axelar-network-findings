@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "jasonxiale",
+  "risk": "2",
+  "title": "`expressExecuteWithToken` and `expressExecute` are suspicious of the reorg attack",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/57",
+  "originalIssueId": 232,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/232"
+}

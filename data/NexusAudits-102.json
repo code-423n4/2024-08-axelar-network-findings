@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "NexusAudits",
+  "risk": "2",
+  "title": "Insufficient Msg.Value Validation in Cross-Chain Gas Payment Functions",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/102",
+  "originalIssueId": 246,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/246"
+}

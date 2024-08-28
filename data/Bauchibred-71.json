@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "The token balance tracking logic for some supported tokens can be broken/sidestepped",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/71",
+  "originalIssueId": 149,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/149"
+}

@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "Cross chain calls can be permanently DOS'd due to collision of message Ids",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/69",
+  "originalIssueId": 174,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/174"
+}

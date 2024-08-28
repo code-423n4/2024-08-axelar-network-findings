@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "minato7namikazi",
+  "risk": "2",
+  "title": "fn  `start_token_balance` will always return Ok(()) when saving a new balance",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/47",
+  "originalIssueId": 297,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/297"
+}

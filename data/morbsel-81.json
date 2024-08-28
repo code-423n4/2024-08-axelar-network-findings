@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "morbsel",
+  "risk": "3",
+  "title": "Deploying an interchain token and a token manager for a token on a chain will always fail due to balance tracking error",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/81",
+  "originalIssueId": 84,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/84"
+}

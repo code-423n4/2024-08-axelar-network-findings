@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "Topmark",
+  "risk": "2",
+  "title": "Loss of fund as Unused Msg.value and gasValue is not Returned to Caller",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/98",
+  "originalIssueId": 289,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/289"
+}

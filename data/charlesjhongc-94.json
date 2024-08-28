@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "charlesjhongc",
+  "risk": "2",
+  "title": "Message execution may be skipped at the destination chain by front running the validation in gateway",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/94",
+  "originalIssueId": 33,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/33"
+}

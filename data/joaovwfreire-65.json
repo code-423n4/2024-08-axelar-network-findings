@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "joaovwfreire",
+  "risk": "3",
+  "title": "expressExecute at the InterchainTokenService doesn't handle native tokens properly",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/65",
+  "originalIssueId": 181,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/181"
+}

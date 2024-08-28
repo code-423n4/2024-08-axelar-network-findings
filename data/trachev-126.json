@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "trachev",
+  "risk": "2",
+  "title": "Rebasing tokens are not supported, causing inaccuracies in accounting of assets",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/126",
+  "originalIssueId": 65,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/65"
+}

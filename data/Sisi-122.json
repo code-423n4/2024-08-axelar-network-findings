@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "Sisi",
+  "risk": "2",
+  "title": "No access control on `AxelarAmplifierGateway::validateProof` and `AxelarAmplifierGateway::approveMessages` can cause DoS attack by malicios user",
+  "issueId": 122,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/122",
+  "originalIssueId": 98,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/98"
+}

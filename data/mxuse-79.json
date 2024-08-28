@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "mxuse",
+  "risk": "2",
+  "title": "Upgrades can fail",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/79",
+  "originalIssueId": 111,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/111"
+}

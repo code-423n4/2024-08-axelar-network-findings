@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "bronze_pickaxe",
+  "risk": "2",
+  "title": "Migration will not be possible due to no admin set in `instantiate()`",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/90",
+  "originalIssueId": 61,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/61"
+}

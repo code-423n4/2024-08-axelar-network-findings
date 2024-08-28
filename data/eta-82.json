@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "eta",
+  "risk": "2",
+  "title": "`to_vec()` in `ItsMessage::InterchainTransfer` of `abi_decode` function could cause unexpected behavior",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/82",
+  "originalIssueId": 80,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/80"
+}

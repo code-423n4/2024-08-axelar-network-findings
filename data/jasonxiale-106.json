@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "jasonxiale",
+  "risk": "2",
+  "title": "Tokens with a maximum transfer logic might not work for InterchainTokenService",
+  "issueId": 106,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/106",
+  "originalIssueId": 230,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/230"
+}

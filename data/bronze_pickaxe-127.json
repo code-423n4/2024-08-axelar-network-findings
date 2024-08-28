@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "bronze_pickaxe",
+  "risk": "2",
+  "title": "Gas refunds will be lost when using smart contract wallets",
+  "issueId": 127,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/127",
+  "originalIssueId": 60,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/60"
+}

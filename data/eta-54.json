@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "eta",
+  "risk": "3",
+  "title": "Incorrect Type Conversion in `abi_decode` Method for `token_manager_type` in the `abi.rs` contract of `interchain-token-service` package",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/54",
+  "originalIssueId": 239,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/239"
+}

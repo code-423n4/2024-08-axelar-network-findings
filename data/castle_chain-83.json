@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "castle_chain",
+  "risk": "2",
+  "title": "The Axelar Amplifier Gateway is Not Fully Backward Compatible",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/83",
+  "originalIssueId": 78,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/78"
+}

@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "trachev",
+  "risk": "2",
+  "title": "Express executors may execute invalid commands, losing their transferred funds",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/88",
+  "originalIssueId": 63,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/63"
+}

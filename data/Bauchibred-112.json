@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "Bauchibred",
+  "risk": "3",
+  "title": "Calling core state functionalities would fail since they've been restricted to the testing scope",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/112",
+  "originalIssueId": 195,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/195"
+}

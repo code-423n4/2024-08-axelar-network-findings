@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "TopStar",
+  "risk": "2",
+  "title": "Potential loss of gas fees when `transmitInterchainTransfer` is called",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/131",
+  "originalIssueId": 27,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/27"
+}

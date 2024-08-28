@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "TopStar",
+  "risk": "2",
+  "title": "Some tokens cannot be bridged",
+  "issueId": 132,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/132",
+  "originalIssueId": 21,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/21"
+}

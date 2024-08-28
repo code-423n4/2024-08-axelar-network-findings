@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "bareli",
+  "risk": "2",
+  "title": "Optional ERC-20 functional required.",
+  "issueId": 108,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/108",
+  "originalIssueId": 216,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/216"
+}

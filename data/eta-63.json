@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "eta",
+  "risk": "2",
+  "title": "Inaccurate `CrossChainId` matching in the `save_outgoing_msg ` function of ``state.rs` contract of  `axelarnet-gateway` package",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/63",
+  "originalIssueId": 189,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/189"
+}

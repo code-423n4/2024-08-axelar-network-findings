@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "peanuts",
+  "risk": "2",
+  "title": "Messages cannot be retried if routing fails, as `route_incoming_messages` will read into an empty storage",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/80",
+  "originalIssueId": 100,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/100"
+}

@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "Source address does not correspond to the trusted source address in ITS Hub",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/68",
+  "originalIssueId": 177,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/177"
+}

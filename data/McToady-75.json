@@ -1,0 +1,10 @@
+{
+  "contest": 424,
+  "handle": "McToady",
+  "risk": "2",
+  "title": "An interchain token's `flowLimit` set in `TokenManager` can be used to DoS interchain transfers and potentially prevent an express executor from being reimbursed their tokens",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2024-08-axelar-network-findings/issues/75",
+  "originalIssueId": 141,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-axelar-network-validation/issues/141"
+}
